@@ -23,7 +23,7 @@ This is how it will look on your device.
 N/A
 
 ## Contributing
-Nicholas Kepers
+Nicholas Kepers (with help from Jennifer Lucas and Spencer Creer(tutor))
 
 ## Tests 
 N/A
